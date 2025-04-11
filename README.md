@@ -1,4 +1,4 @@
-<h1 align="center">👩🏽‍💻 Suwathi</h1>
+<h1 align="center">👩🏻‍💻Suwathi Siva Kumaran</h1>
 <p align="center">
   Data Analyst | Data Science Enthusiast | Storytelling with Data
 </p>
