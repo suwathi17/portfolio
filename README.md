@@ -21,6 +21,13 @@ University Malaysia Sabah
 
 ## 💼 Work Experience
 
+**Data Analyst @ JRC Technology**  
+*Oct 2024 – Feb 2025*
+
+- 📊 Led development of interactive dashboards for government and private sector clients, improving decision-making speed and clarity.
+- ⚙️ Automated monthly reporting pipelines using Alteryx and Python, reducing manual work by 60%.
+- 🤝 Collaborated with cross-functional teams to deliver actionable insights from complex datasets.
+- 
 **Data Analyst @ Statworks Group**  
 *Oct 2022 – Oct 2024*
 
