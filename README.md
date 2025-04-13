@@ -65,8 +65,8 @@ Tools: X, Y, Z
 
 ## 🌐 Let's Connect!
 
-- 📧 Email: suwathi.email@example.com  
-- 💼 LinkedIn: [linkedin.com/in/suwathi17](https://linkedin.com/in/suwathi17)  
+- 📧 Email: suwathi1217@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/suwathi](https://www.linkedin.com/in/suwathi-siva-kumaran/) 
 - 💻 GitHub: [github.com/suwathi17](https://github.com/suwathi17)
 
 ---
