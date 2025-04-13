@@ -1,74 +1,93 @@
-<h1 align="center">👩🏻‍💻Suwathi Siva Kumaran</h1>
-<p align="center">
-  Data Analyst | Data Science Enthusiast | Storytelling with Data
-</p>
-
----
-
-## 📘 About Me
-
-Hey there! I'm Suwathi, a curious and detail-oriented Data Analyst with a degree in Computer Science (specializing in Data Science). I enjoy transforming raw data into meaningful insights through analytics, automation, and visualization. Whether it’s building dashboards, optimizing data pipelines, or finding the “why” behind the numbers — I’m in my zone when solving data problems.
-
----
-
 ## 🎓 Education
 
-**Bachelor of Computer Science**  
+**Bachelor of Computer Science (Hons)**  
 *Major in Data Science*  
-University Malaysia Sabah
+University Malaysia Sabah  
+*CGPA: 3.34 / 4.00*
+
+Capstone Project:  
+📌 *Sentiment Analysis on Critics vs. Social Media Reviews* using **SVM + VADER**  
+🎯 Achieved 87% accuracy in classification
 
 ---
 
 ## 💼 Work Experience
 
-**Data Analyst @ JRC Technology**  
-*Oct 2024 – Feb 2025*
+### 💼 Associate Data Analyst @ JRC Technology  
+📍 Penang, Malaysia | 🗓️ Oct 2024 – Feb 2025  
+- Automated data correlation processes (Cimtrax, Idera), saving 10+ hours/week.  
+- Built interactive dashboards using Power BI & Excel, improving cross-department visibility.  
+- Optimized ServiceNow workflows, reducing ticket resolution time by 35%.
 
-- 📊 Led development of interactive dashboards for government and private sector clients, improving decision-making speed and clarity.
-- ⚙️ Automated monthly reporting pipelines using Alteryx and Python, reducing manual work by 60%.
-- 🤝 Collaborated with cross-functional teams to deliver actionable insights from complex datasets.
-- 
-**Data Analyst @ Statworks Group**  
-*Oct 2022 – Oct 2024*
+---
 
-- 📊 Led development of interactive dashboards for government and private sector clients, improving decision-making speed and clarity.
-- ⚙️ Automated monthly reporting pipelines using Alteryx and Python, reducing manual work by 60%.
-- 🤝 Collaborated with cross-functional teams to deliver actionable insights from complex datasets.
+### 💼 Data Analyst @ Statworks Group  
+📍 Selangor, Malaysia | 🗓️ Sept 2023 – Sept 2024  
+- Conducted large-scale data analysis to support government policy decisions.  
+- Enhanced 20+ dashboards in Tableau and Power BI for 50+ stakeholders.  
+- Led TIBCO Spotfire training, improving analysis efficiency by 25%.
+
+---
+
+### 💼 Data Science Intern @ Statworks Group  
+📍 Selangor, Malaysia | 🗓️ March 2023 – Sept 2023  
+- Reduced data discrepancies by 40% through advanced data cleaning techniques.  
+- Improved predictive accuracy by 15% using ML models (Alteryx, Python).  
+- Streamlined processes by automating repetitive tasks, reducing turnaround by 25%.
 
 ---
 
 ## 🧪 Projects
 
 ### 🧠 EEG Band Discovery  
-Analyzed EEG signals to discover dominant brainwave bands for different mental states.  
-Tools: Python, NumPy, SciPy, Matplotlib  
-🔗 [View on GitHub](https://github.com/suwathi17/eeg-band-discovery)
+Analyzed EEG signals to identify dominant brainwave frequencies during various mental states.  
+🛠️ Tools: Python, NumPy, SciPy, Matplotlib  
+🔗 [View Project](https://github.com/suwathi17/eeg-band-discovery)
 
-<!-- Add more projects if you'd like -->
-<!-- 
-### 📦 Project Name  
-Brief description of what the project does.  
-Tools: X, Y, Z  
-🔗 [View on GitHub](#)
--->
+### 📊 COVID-19 Trend Dashboard  
+Created an interactive Tableau dashboard to visualize global COVID-19 data.  
+🛠️ Tools: Tableau  
+🔗 [Link Coming Soon]
+
+### 📈 Stock Price Prediction  
+Developed a stock prediction model using machine learning with 80% accuracy.  
+🛠️ Tools: Python, Scikit-learn  
+🔗 [Link Coming Soon]
 
 ---
 
 ## 🛠️ Skills & Tools
 
-- **Languages**: Python, SQL, R  
-- **BI & Visualization**: Tableau, Power BI, Spotfire  
-- **Data Tools**: Alteryx, Excel, ElasticSearch, Splunk  
-- **Other**: Git, ServiceNow, Cimtrax, Idera
+- **Languages**: Python, SQL, R, C++, JavaScript  
+- **BI & Visualization**: Tableau, Power BI, TIBCO Spotfire  
+- **ETL & Data Tools**: Alteryx, Excel, Jupyter Notebook, ElasticSearch, Splunk  
+- **Other Tools**: Git, ServiceNow, Cimtrax, Idera  
+
+---
+
+## 🧑🏻‍🏫 Volunteer Experience
+
+### 👩🏻‍🏫 Data Science Mentor  
+University Juniors | 2023 – Present  
+- Mentored juniors in SQL and Power BI  
+- Reviewed and guided academic & personal analytics projects
+
+---
+
+## 🏅 Certifications
+
+- 📜 Tableau Training – Simplilearn  
+- 📜 Alteryx Core Designer *(Planned)*
 
 ---
 
 ## 🌐 Let's Connect!
 
-- 📧 Email: suwathi1217@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/suwathi](https://www.linkedin.com/in/suwathi-siva-kumaran/) 
+- 📧 Email: [suwathi1217@gmail.com](mailto:suwathi1217@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/suwathi-siva-kumaran](https://linkedin.com/in/suwathi-siva-kumaran)  
 - 💻 GitHub: [github.com/suwathi17](https://github.com/suwathi17)
 
 ---
 
 <p align="center"><i>"Turning data into decisions, one chart at a time."</i></p>
+
