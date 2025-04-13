@@ -1,3 +1,15 @@
+<h1 align="center">👩🏻‍💻Suwathi Siva Kumaran</h1>
+<p align="center">
+  Data Analyst | Data Science Enthusiast | Storytelling with Data
+</p>
+
+---
+
+## 📘 About Me
+
+Hey there! I'm Suwathi, a curious and detail-oriented Data Analyst with a degree in Computer Science (specializing in Data Science). I enjoy transforming raw data into meaningful insights through analytics, automation, and visualization. Whether it’s building dashboards, optimizing data pipelines, or finding the “why” behind the numbers — I’m in my zone when solving data problems.
+
+---
 ## 🎓 Education
 
 **Bachelor of Computer Science (Hons)**  
